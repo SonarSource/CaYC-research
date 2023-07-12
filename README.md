@@ -3,7 +3,6 @@ Clean as You Code research
 
 Issues in code accumulate over time and can contribute to code-level technical debt. Technical debt leads to lower product quality, increased security risks, reduced developer velocity, efficiency, and morale. Based on an examination of more than 200 projects within a span of 12 months, our research was able to estimate the cost attributed to accumulated code-level technical debt. The study also proposes an alternate way to avoid these costs upfront.
 
-This research estimates that developers spend 33% of their time dealing with technical debt, equating to productivity loss and a significant cost to companies annually. Over and above this direct developer cost, the negative impact of technical debt can result in lower product quality, increased security risks, worsening business results, and reduced developer velocity, efficiency, and morale.
 
 This is the list of projects analyzed on the report:
 ```
