@@ -263,3 +263,4 @@ docker run --rm -d --name sonarqube -p 9000:9000 -e SONAR_ES_BOOTSTRAP_CHECKS_DI
 ```
 1. See the results in the SonarQube UI, opening the browser on http://localhost:9000
 
+![image](sonarqube-screenshot.png)
